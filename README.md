@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/juandebandi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://juudini.github.io/-portfolio/">
+    <a href="https://juudini-portfolio.netlify.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://twitter.com/WatashiJuud">
