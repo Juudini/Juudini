@@ -1,11 +1,11 @@
-<h1 align="center">Hi, guys! 👋</h1>
+<h1 align="center">Hello, folks! 👋</h1>
 
 <p align="center">
-    <b>Welcome to the "About Me" section!</b><br><br>
+    <b>Welcome to my "About Me" section!</b><br><br>
     <i>
         I'm Juani.<br>
-        I am currently focused on the field of backend development, where I'm exploring the world of JavaScript, databases, and honing         my skills in this domain.<br>
-        I'm open to collaborating on interesting projects and believe in the power of teamwork.<br>
+        Currently, my focus is on backend development, where I delve into the realms of JavaScript, databases, and sharpen my skills in this domain.<br>
+        I'm open to collaborating on interesting projects and firmly believe in the power of teamwork.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/juandebandi/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -22,16 +22,17 @@
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Juudini)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Juudini)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Juudini)
+[![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/Juudini)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/Juudini)
+[![Markdown](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown)](https://github.com/Juudini)
 
-### Tech & Frameworks
+### Technologies & Frameworks
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Juudini)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Juudini)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Juudini)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Juudini)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Juudini)
 
-### OS
+### Operating Systems
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Juudini)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Juudini)
 
@@ -46,14 +47,5 @@
   <a href="https://github.com/Juudini">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juudini&theme=transparent" />
   </a>
-  <a href="https://github.com/Juudini">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juudini&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/Juudini">
-    <img src="https://komarev.com/ghpvc/?username=Juudini&color=blue&style=flat)" />
-  </a>
-</p>
