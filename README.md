@@ -1,10 +1,13 @@
-<h1 align="center">Hello, folks! 👋</h1>
+<h1 align="center">Hello! I'm Juan  Debandi👋</h1>
 
 <p align="center">
     <b>Welcome to my "About Me" section!</b><br><br>
 </p>
 
-![I'm Juan](assets/mybanner.gif)
+<p align="center">
+  <img src="assets/mybanner.gif" alt="I'm Juan">
+</p>
+
 
  <p align="center">
     
@@ -20,8 +23,7 @@
 </p>
 
 <p align="left">
-    <i> I'm Juani.<br>
-        Currently, my focus is on backend development, where I delve into the realms of JavaScript, databases, and sharpen my skills in this domain.<br>
+    <i> Currently, my focus is on backend development, where I delve into the realms of JavaScript, databases, and sharpen my skills in this domain.<br>
         I'm open to collaborating on interesting projects and firmly believe in the power of teamwork.<br>
     </i><br> </p>
 
