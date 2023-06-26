@@ -53,9 +53,9 @@
       </td>
     <td align="center" width="100">
         <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50" alt="TypeScript" />
         </a>
-        <br>React
+        <br>TypeScript
       </td>
       <td align="center"  width="100">
         <a href="#">
