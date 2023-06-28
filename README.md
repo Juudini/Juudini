@@ -97,10 +97,11 @@
       </td>
     </tr>
       <tr>
-     <td align="center"  width="100">
+        <td align="center"  width="100">
         <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50" height="50" alt="Sequelize" />
         </a>
-        <br>
+        <br>Sequelize
       </td>
         <td align="center"  width="100">
         <a href="#">
@@ -122,8 +123,9 @@
       </td>
    <td align="center"  width="100">
         <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
         </a>
-        <br>
+        <br>Java
       </td>
       </tr>
   </table>
