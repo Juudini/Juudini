@@ -130,6 +130,19 @@
   </table>
 </div>
 
+---
+
+### ✨ Project Highlights:
+
+<a href="https://github.com/Juudini/TRPC_CRUD"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=TRPC_CRUD&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TypeScript CRUD"></a>
+<a href="https://github.com/Juudini/MedicalAppointmentWeb"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=MedicalAppointmentWeb&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Medical Appointment Web Projec"></a>
+<a href="https://github.com/Juudini/RESTAPI_EXPRESS_JS"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=RESTAPI_EXPRESS_JS&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="RESTAPI = EXPRESS + JS"></a>
+<a href="https://github.com/Juudini/TasksList"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=TasksList&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Tasks List- TypeScript"></a>
+<a href="https://github.com/Juudini/CRUD_TS_SQL"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=CRUD_TS_SQL&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="CRUD = TypeScript + MySQL"></a>
+<a href="https://github.com/Juudini/CRUD_JAVA"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=CRUD_JAVA&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="CRUD JAVA + MySQL"></a>
+
+---
+
 <details>
 <p align="center">
   <a href="https://github.com/Juudini">
