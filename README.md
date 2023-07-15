@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/mybanner.gif" alt="I'm Juan">
+  <img src="assets/banner.png" alt="I'm Juan">
 </p>
-
 
  <p align="center">
     
@@ -27,8 +26,7 @@
         I am eager to collaborate on intriguing projects and firmly believe in the immense power of teamwork.<br>
     </i><br> </p>
 
-
-###  🧩 Languages & Tools
+### 🧩 Languages & Tools
 
 <div style="overflow-x: auto;">
   <table align="center">
