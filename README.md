@@ -1,15 +1,14 @@
+![github-profile-banner](assets/banner.png)
+
+---
+
 <h1 align="center">Hello! I'm Juan  Debandi👋</h1>
 
 <p align="center">
     <b>Welcome to my "About Me" section!</b><br><br>
 </p>
 
-<p align="center">
-  <img src="assets/banner.png" alt="I'm Juan">
-</p>
-
- <p align="center">
-    
+<p align="center">    
 <a href="https://www.linkedin.com/in/juandebandi/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>  
@@ -25,6 +24,8 @@
     <i>... and I am a backend developer based in Mendoza, Argentina, crafting those backend solutions on the web that you love to witness. By using the latest technologiesavailable I’m willing to grow and challenge myself in environments where I canlearn and keep creating amazing dynamic experiences that live on the internet.<br><br> At present, my main area of focus is backend development, where I delve into the fascinating realms of JavaScript and databases, constantly honing my skills in this field. I started coding in high school and I'm now on the verge of graduating from a backend-focused programming bootcamp.<br><br>
         I am eager to collaborate on intriguing projects and firmly believe in the immense power of teamwork.<br>
     </i><br> </p>
+    
+---
 
 ### 🧩 Languages & Tools
 
