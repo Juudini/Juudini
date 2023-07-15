@@ -143,16 +143,19 @@
 
 ---
 
-<details>
+### 🤹 My Stats:
+
 <p align="center">
-  <a href="https://github.com/Juudini">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juudini&theme=transparent" />
-  </a>
-  <a href="https://github.com/Juudini">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juudini&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Juudini">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juudini&theme=transparent" />
-  </a>
+    <a href="https://github.com/Juudini">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juudini&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Juudini">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juudini&hide=css,html&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/Juudini">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juudini&theme=tokyonight" /> <br/>
+    </a>
 </p>
-</details>
+
+
+
