@@ -153,6 +153,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juudini&hide=css,html&theme=tokyonight" />
     </a>
     <a href="https://github.com/Juudini">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juudini&theme=tokyonight" /> <br/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juudini&theme=tokyonight" />
     </a>
 </p>
