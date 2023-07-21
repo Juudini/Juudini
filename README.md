@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-    <i>... and I am a backend developer based in Mendoza, Argentina, crafting those backend solutions on the web that you love to witness. By using the latest technologies available I’m willing to grow and challenge myself in environments where I canlearn and keep creating amazing dynamic experiences that live on the internet.<br><br> At present, my main area of focus is backend development, where I delve into the fascinating realms of JavaScript and databases, constantly honing my skills in this field. I started coding in high school and I'm now on the verge of graduating from a backend-focused programming bootcamp.<br><br>
+    <i>... and I am a backend developer based in Mendoza, Argentina, crafting those backend solutions on the web that you love to witness. By using the latest technologies available I’m willing to grow and challenge myself in environments where I can learn and keep creating amazing dynamic experiences that live on the internet.<br><br> At present, my main area of focus is backend development, where I delve into the fascinating realms of JavaScript and databases, constantly honing my skills in this field. I started coding in high school and I'm now on the verge of graduating from a backend-focused programming bootcamp.<br><br>
         I am eager to collaborate on intriguing projects and firmly believe in the immense power of teamwork.<br>
     </i><br> 
 </p>
