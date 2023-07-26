@@ -50,21 +50,7 @@
         </a>
         <br>Node.js
       </td>
-      <td align="center" width="100"> 
-        <a href="#" >
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50" alt="Express.js" />
-        </a>
-        <br>Express.js
-      </td>
        <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="50" height="50" alt="Nest.js" />
-        </a>
-        <br>Nest.js
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="100">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="50" height="50" alt="Golang" />
         </a>
@@ -75,6 +61,20 @@
           <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
         </a>
         <br>Java
+      </td>
+    </tr>
+    <tr>
+         <td align="center" width="100"> 
+        <a href="#" >
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50" alt="Express.js" />
+        </a>
+        <br>Express.js
+      </td>
+       <td align="center" width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="50" height="50" alt="Nest.js" />
+        </a>
+        <br>Nest.js
       </td>
         <td align="center" width="100">
         <a href="#">
@@ -127,6 +127,12 @@
         <br>Bash
       </td>
      <tr>
+        <td align="center"  width="100">
+        <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50" alt="Linux" />
+        </a>
+        <br>Linux
+      </td>
       <td align="center" width="100">
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
