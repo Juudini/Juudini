@@ -32,19 +32,6 @@
 
 <div style="overflow-x: auto;">
   <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
-        </a>
-        <br>CSS
-      </td>
       <td align="center" width="100">
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
@@ -57,15 +44,7 @@
         </a>
         <br>TypeScript
       </td>
-      <td align="center"  width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
-        </a>
-        <br>Tailwind CSS
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
+       <td align="center" width="100">
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
         </a>
@@ -77,11 +56,31 @@
         </a>
         <br>Express.js
       </td>
-              <td align="center" width="100">
+       <td align="center" width="100">
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="50" height="50" alt="Nest.js" />
         </a>
         <br>Nest.js
+      </td>
+    </tr>
+    <tr>
+        <td align="center" width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="50" height="50" alt="Golang" />
+        </a>
+        <br>GO
+      </td>
+          <td align="center"  width="100">
+        <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
+        </a>
+        <br>Java
+      </td>
+        <td align="center" width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" width="50" height="50" alt="MySQL" />
+        </a>
+        <br>MySQL
       </td>
       <td align="center" width="100">
         <a href="#">
@@ -91,17 +90,29 @@
       </td>
          <td align="center" width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" width="50" height="50" alt="MySQL" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="50" alt="MongoDB" />
         </a>
-        <br>MySQL
+        <br>MongoDB
       </td>
     </tr>
       <tr>
+           <td align="center"  width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/TRPC_Logo_2022.svg" width="50" height="50" alt="tRPC" />
+        </a>
+        <br>tRPC
+      </td>
         <td align="center"  width="100">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50" height="50" alt="Sequelize" />
         </a>
         <br>Sequelize
+      </td>
+        <td align="center"  width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" width="50" height="50" alt="GraphQL" />
+        </a>
+        <br>GraphQL
       </td>
         <td align="center"  width="100">
         <a href="#">
@@ -115,19 +126,26 @@
         </a>
         <br>Bash
       </td>
- <td align="center"  width="100">
+     <tr>
+      <td align="center" width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Markdown-mark-half.svg" width="50" height="50" alt="Markdown" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
         </a>
-        <br>Markdown
+        <br>HTML
       </td>
-   <td align="center"  width="100">
+      <td align="center" width="100">
         <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50" alt="Java" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
         </a>
-        <br>Java
+        <br>CSS
       </td>
-      </tr>
+      <td align="center"  width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
+        </a>
+        <br>Tailwind CSS
+      </td>
+         </tr>
   </table>
 </div>
 
