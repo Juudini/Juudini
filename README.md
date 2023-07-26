@@ -66,7 +66,7 @@
     <tr>
         <td align="center" width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="50" height="50" alt="Golang" />
+          <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="50" height="50" alt="Golang" />
         </a>
         <br>GO
       </td>
@@ -116,9 +116,9 @@
       </td>
         <td align="center"  width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="50" height="50" alt="NPM" />
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
         </a>
-        <br>NPM
+        <br>Postman
       </td>
        <td align="center"  width="100">
         <a href="#">
