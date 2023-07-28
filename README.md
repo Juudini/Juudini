@@ -114,17 +114,17 @@
         </a>
         <br>GraphQL
       </td>
+          <td align="center"  width="100">
+        <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker" />
+        </a>
+        <br>Docker
+      </td>
         <td align="center"  width="100">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
         </a>
         <br>Postman
-      </td>
-       <td align="center"  width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50" alt="Bash" />
-        </a>
-        <br>Bash
       </td>
      <tr>
         <td align="center"  width="100">
@@ -132,6 +132,12 @@
           <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50" alt="Linux" />
         </a>
         <br>Linux
+      </td>
+        <td align="center"  width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50" alt="Bash" />
+        </a>
+        <br>Bash
       </td>
       <td align="center" width="100">
         <a href="#">
