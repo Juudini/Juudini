@@ -176,7 +176,7 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juudini&theme=tokyonight" />
     </a>
     <a href="https://github.com/Juudini">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juudini&hide=css,html&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juudini&hide=css,html,dockerfile&theme=tokyonight" />
     </a>
     <a href="https://github.com/Juudini">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juudini&theme=tokyonight" />
