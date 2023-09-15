@@ -100,7 +100,7 @@
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="100" height="50" alt="tRPC" />
         </a>
-        <br>tRPC
+        <br>GRPC
       </td>
            <td align="center"  width="100">
         <a href="#">
