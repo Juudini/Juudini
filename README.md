@@ -78,9 +78,9 @@
       </td>
     <td align="center" width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50" alt="Postgresql" />
+          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50" alt="Jest" />
         </a>
-        <br>PostgreSQL
+        <br>Jest
       </td>
         <td align="center" width="100">
         <a href="#">
