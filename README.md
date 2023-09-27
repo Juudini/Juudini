@@ -46,7 +46,7 @@
       </td>
        <td align="center" width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50" alt="NodeJS" />
+          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50" alt="NodeJS" />
         </a>
         <br>Node.js
       </td>
@@ -66,7 +66,7 @@
     <tr>
         <td align="center" width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/MySQL_Dolphin.jpg" width="50" height="50" alt="MySQL" />
+          <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50" alt="MySQL" />
         </a>
         <br>MySQL
       </td>
@@ -82,7 +82,7 @@
         </a>
         <br>Jest
       </td>
-        <td align="center" width="100">
+<!--         <td align="center" width="100">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="50" height="50" alt="Golang" />
         </a>
@@ -93,28 +93,8 @@
           <img src="https://upload.vectorlogo.zone/logos/fiberwiki/images/2a76306a-d074-4ae7-8694-c03bc03c6201.svg" width="100" height="50" alt="Fiber" />
         </a>
         <br>Fiber
-      </td>
-    </tr>
-      <tr>
-          <td align="center"  width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="100" height="50" alt="tRPC" />
-        </a>
-        <br>GRPC
-      </td>
-           <td align="center"  width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/TRPC_Logo_2022.svg" width="50" height="50" alt="tRPC" />
-        </a>
-        <br>tRPC
-      </td>
+      </td> -->
         <td align="center"  width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" width="50" height="50" alt="Sequelize" />
-        </a>
-        <br>Sequelize
-      </td>
-          <td align="center"  width="100">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker" />
         </a>
@@ -126,18 +106,19 @@
         </a>
         <br>Postman
       </td>
+    </tr>
      <tr>
         <td align="center"  width="100">
         <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" height="50" alt="Linux" />
+          <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="50" height="50" alt="Angular" />
         </a>
-        <br>Linux
+        <br>Angular
       </td>
         <td align="center"  width="100">
         <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="50" height="50" alt="Bash" />
+          <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="50" height="50" alt="Bash" />
         </a>
-        <br>Bash
+        <br>RxJS
       </td>
       <td align="center" width="100">
         <a href="#">
