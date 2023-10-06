@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/juandebandi/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>  
-<a href="https://juandebandi.netlify.app/">
+<a href="https://juandebandi.dev/">
         <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
     </a>
  <a href="mailto:juudinidev@gmail.com">
