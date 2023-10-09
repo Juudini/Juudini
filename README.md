@@ -21,10 +21,10 @@
 </p>
 
 <p align="left">
-    <i>... and I’m a backend developer based in Mendoza, Argentina, crafting the backend solutions behind the web that you love to witness. I’m willing to grow and challenge myself in environments where I can learn and keep creating amazing dynamic experiences that live on the internet.<br><br> 
-        At present, my main area of focus is backend development, where I delve into the fascinating realms of JavaScript and databases, constantly honing my skills in this field. I started coding in high school and I'm now on the verge of graduating from a backend-focused programming bootcamp.<br><br>
+    <i>... and I’m a backend developer based in Mendoza, Argentina, crafting the backend solutions behind the web that you love to witness.<br><br> 
+        At present, my main area of focus is backend development, where I delve into the fascinating realms of JavaScript and databases, constantly honing my skills in this field. I started coding in high school and I'm largely self-taught in this field..<br><br>
         My academic background is primarily based on my self-taught approach and my recent graduation from a bootcamp at Coderhouse. Throughout my journey, I've completed various online courses to enhance my skills. The bootcamp provided me with hands-on training in programming and web development, keeping me very fresh and soaked in the latest technologies.<br><br>
-        I am eager to collaborate on intriguing projects and firmly believe in the immense power of teamwork.<br>
+        I’m willing to grow and challenge myself in environments where I can learn and keep creating amazing dynamic experiences that live on the internet.<br>
     </i><br> 
 </p>
     
