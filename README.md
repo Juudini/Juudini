@@ -1,13 +1,12 @@
 ![github-profile-banner](assets/banner.png)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 
-<h1 align="center">Hello! I'm Juan  Debandi👋</h1>
-
-<p align="center">
-    <b>Welcome to my "About Me" section!</b><br><br>
-</p>
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello! I'm Juan  Debandi👋</h1></summary>
+  </ul>
+</div>
 <p align="center">    
 <a href="https://www.linkedin.com/in/juandebandi/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,6 +18,8 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&color=6C19FF&background=25052C2A&multiline=true&repeat=false&width=215&height=35&lines=Back-End+Developer)](https://git.io/typing-svg)
 
 <p align="left">
     <i>... and I’m a backend developer based in Mendoza, Argentina, crafting the backend solutions behind the web that you love to witness.<br><br> 
