@@ -108,7 +108,7 @@
       </td>
     </tr>
      <tr>
-        <td align="center"  width="100">
+<!--         <td align="center"  width="100">
         <a href="#">
           <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="50" height="50" alt="Angular" />
         </a>
@@ -119,6 +119,19 @@
           <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="50" height="50" alt="Bash" />
         </a>
         <br>RxJS
+      </td> -->
+         </td>
+        <td align="center"  width="100">
+        <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
+        </a>
+        <br>React
+      </td>
+      <td align="center"  width="100">
+        <a href="#">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
+        </a>
+        <br>Tailwind CSS
       </td>
       <td align="center" width="100">
         <a href="#">
@@ -131,12 +144,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
         </a>
         <br>CSS
-      </td>
-      <td align="center"  width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
-        </a>
-        <br>Tailwind CSS
       </td>
          </tr>
   </table>
