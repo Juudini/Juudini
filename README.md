@@ -30,124 +30,13 @@
   
 <details open> 
   <summary><h2>🧩 Languages & Tools</h2></summary>
- <table>
-<div style="overflow-x: auto;">
-  <table align="center">
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" height="50" alt="JavaScript" />
-        </a>
-        <br>JavaScript
-      </td>
-    <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50" height="50" alt="TypeScript" />
-        </a>
-        <br>TypeScript
-      </td>
-       <td align="center" width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" height="50" alt="NodeJS" />
-        </a>
-        <br>Node.js
-      </td>
-    <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="50" height="50" alt="Nest.js" />
-        </a>
-        <br>Nest.js
-      </td>
-     <td align="center" width="100"> 
-        <a href="#" >
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" height="50" alt="Express.js" />
-        </a>
-        <br>Express.js
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" height="50" alt="MySQL" />
-        </a>
-        <br>MySQL
-      </td>
-    <td align="center" width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" height="50" alt="MongoDB" />
-        </a>
-        <br>MongoDB
-      </td>
-    <td align="center" width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50" alt="Jest" />
-        </a>
-        <br>Jest
-      </td>
-<!--         <td align="center" width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="50" height="50" alt="Golang" />
-        </a>
-        <br>GO
-      </td>
-     <td align="center"  width="100">
-        <a href="#">
-          <img src="https://upload.vectorlogo.zone/logos/fiberwiki/images/2a76306a-d074-4ae7-8694-c03bc03c6201.svg" width="100" height="50" alt="Fiber" />
-        </a>
-        <br>Fiber
-      </td> -->
-        <td align="center"  width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" height="50" alt="Docker" />
-        </a>
-        <br>Docker
-      </td>
-        <td align="center"  width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
-        </a>
-        <br>Postman
-      </td>
-    </tr>
-     <tr>
-<!--         <td align="center"  width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="50" height="50" alt="Angular" />
-        </a>
-        <br>Angular
-      </td>
-        <td align="center"  width="100">
-        <a href="#">
-          <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" width="50" height="50" alt="Bash" />
-        </a>
-        <br>RxJS
-      </td> -->
-         </td>
-        <td align="center"  width="100">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
-        </a>
-        <br>React
-      </td>
-      <td align="center"  width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS" />
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" width="100">
-        <a href="#">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
-        </a>
-        <br>CSS
-      </td>
-         </tr>
-  </table>
+    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,aws,mysql,mongodb,docker,jest,postman,git,react,tailwind,html,css&perline=6" />
+  </a>
+</p>
+
 
 </details>
 
