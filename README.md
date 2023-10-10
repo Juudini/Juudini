@@ -40,7 +40,7 @@
 
 
 <details open>
-   <summary><h2>🌠 Project Highlights:</h2></summary>
+   <summary><h2>🌠 My Projects:</h2></summary>
 <p align="center">
     <a href="https://github.com/Juudini/TRPC_CRUD"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=TRPC_CRUD&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TypeScript CRUD"></a>
     <a href="https://github.com/Juudini/MedicalAppointmentWeb"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=MedicalAppointmentWeb&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Medical Appointment Web Projec"></a>
