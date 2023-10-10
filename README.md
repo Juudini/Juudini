@@ -49,6 +49,7 @@
     <a href="https://github.com/Juudini/CRUD_TS_SQL"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=CRUD_TS_SQL&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="CRUD = TypeScript + MySQL"></a>
     <a href="https://github.com/Juudini/FinalProjectSQL"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=FinalProjectSQL&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Final Project + MySQL"></a>
 </p>
+<a href="https://github.com/Juudini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 ---
