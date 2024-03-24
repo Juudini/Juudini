@@ -16,9 +16,8 @@
 
 <p align="left">
     <i>... and I’m a backend developer based in Mendoza, Argentina, crafting the backend solutions behind the web that you love to witness.<br><br> 
-        At present, my main area of focus is backend development, where I delve into the fascinating realms of JavaScript and databases, constantly honing my skills in this field. I started coding in high school and I'm largely self-taught in this field..<br><br>
-        My academic background is primarily based on my self-taught approach and my recent graduation from a bootcamp. Throughout my journey, I've completed various online courses to enhance my skills. The bootcamp provided me with hands-on training in programming and web development, keeping me very fresh and soaked in the latest technologies.<br><br>
-        I’m willing to grow and challenge myself in environments where I can learn and keep creating amazing dynamic experiences that live on the internet.<br>
+        At present, my main area of focus is backend development, where I delve into the fascinating realms of TypeScript and databases, constantly honing my skills in this field. I started coding in high school and I'm largely self-taught in this field..<br><br>
+        An empathetic and enthusiastic individual, I thrive on challenges and am always seeking to learn something new. I am ready to tackle new challenges where I can continue to learn an d further build my career.<br><br>
     </i><br> 
 </p>
     
@@ -29,7 +28,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,cs,aws,mysql,mongodb,docker,jest,prisma,sequelize,postman,git,nextjs,tailwind,html,flutter&perline=9" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,cs,net,aws,mysql,mongodb,docker,jest,prisma,postman,git,linux,nextjs,tailwind,flutter,dart&perline=10" />
   </a>
 </p>
 
