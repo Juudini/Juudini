@@ -39,14 +39,14 @@
 <details open>
    <summary><h2>🌠 My Projects:</h2></summary>
 <p align="center">
+    <a href="https://github.com/Microservices-Nest/microservices_launcher"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Microservices-Nest&repo=microservices_launcher&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Microservices NestJS"></a>
     <a href="https://github.com/Juudini/pizzeria-api"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=pizzeria-api&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="API Pizzeria E-commerce"></a>
     <a href="https://github.com/Juudini/TRPC_CRUD"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=trpc_crud&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TypeScript CRUD"></a>
     <a href="https://github.com/Juudini/reestructura_servidor"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=reestructura_servidor&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="RESTAPI RE-Structure= EXPRESS + JS"></a>
-    <a href="https://github.com/Juudini/restapi_express_js"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=restapi_express_js&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="RESTful API Express.js, Node.js and MySQL"></a>
-    <a href="https://github.com/Microservices-Nest/products_microservice"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Microservices-Nest&repo=products_microservice&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Microservice NestJS"></a>
+    <a href="https://github.com/Juudini/flutter_cinemapedia_app"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=flutter_cinemapedia_app&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Cinema APP Flutter + Dart"></a>
     <a href="https://github.com/Juudini/final_project_sql"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Juudini&repo=final_project_sql&theme=react&bg_color=231b2e&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Final Project + MySQL"></a>
 </p>
-<a href="https://github.com/Juudini?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Juudini?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 ---
