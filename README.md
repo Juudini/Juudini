@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=200&size=26&duration=1800&pause=1000&color=8D51F7FF&center=true&vCenter=true&repeat=false&lines=Juan+Debandi" alt="Typing SVG" /></a><br>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" /></a>
 </p>
 
 <p align="center">    
@@ -15,9 +15,9 @@
 </p>
 
 <p align="left">
-    <i>... and I’m a backend developer based in Mendoza, Argentina, crafting the backend solutions behind the web that you love to witness.<br><br> 
-        At present, my main area of focus is backend development, where I delve into the fascinating realms of TypeScript and databases, constantly honing my skills in this field. I started coding in high school and I'm largely self-taught in this field..<br><br>
-        An empathetic and enthusiastic individual, I thrive on challenges and am always seeking to learn something new. I am ready to tackle new challenges where I can continue to learn an d further build my career.<br><br>
+    <i>... and I’m a software developer based in Mendoza, Argentina, specializing in crafting backend solutions that power the web experiences you enjoy.<br><br> 
+        My passion for technology started in high school, which led me to begin my coding journey right away. My academic background is self-taught, with skills honed through freelance work in backend and full-stack development. I continuously enhance my expertise through personal projects, staying current with the latest technologies...<br><br>
+        I'm an empathetic and enthusiastic person who loves challenges and is always eager to learn something new. I take ownership of the projects I work on, ensuring the results are the best they can be.<br><br>
     </i><br> 
 </p>
     
@@ -28,7 +28,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,go,cs,net,aws,mysql,mongodb,docker,jest,prisma,postman,linux,nextjst&perline=8" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs,go,cs,net,aws,mysql,mongodb,docker,jest,prisma,postman,react&perline=8" />
   </a>
 </p>
 
