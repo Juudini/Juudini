@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=200&size=26&duration=1800&pause=1000&color=8D51F7FF&center=true&vCenter=true&repeat=false&lines=Juan+Debandi" alt="Typing SVG" /></a><br>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=28" /></a>
 </p>
 
 <p align="center">    
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-    <i>... and I’m a software developer based in Mendoza, Argentina, specializing in crafting backend solutions that power the web experiences you enjoy.<br><br> 
+    <i>... and I’m a software engineer based in Mendoza, Argentina, specializing in crafting backend solutions that power the web experiences you enjoy.<br><br> 
         My passion for technology started in high school, which led me to begin my coding journey right away. My academic background is self-taught, with skills honed through freelance work in backend and full-stack development. I continuously enhance my expertise through personal projects, staying current with the latest technologies...<br><br>
         I'm an empathetic and enthusiastic person who loves challenges and is always eager to learn something new. I take ownership of the projects I work on, ensuring the results are the best they can be.<br><br>
     </i><br> 
